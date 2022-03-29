@@ -1,6 +1,3 @@
-git remote add origin https://github.com/bountrix/Hbs---Prueba-Tecnica--BackEnd.git
-git branch -M main
-git push -u origin main
 const clients = [
 { id: 1, rut: "89873550", name: "LARA RENE PETTY BERGER" },
 { id: 2, rut: "86833361", name: "CONWAY LANDRY POLLARD BRADLEY" },
